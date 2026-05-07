@@ -2,9 +2,9 @@
 
 ## Main Information.
 
-- 🇷🇺 Russian version: [README_RU](NS_Main_RU.md)
+- 🇷🇺 Russian version: [NS_Main_RU](NS_Main_RU.md)
   
-- 🇺🇸 English version: [README_EN](NS_Main_EN.md)
+- 🇺🇸 English version: [NS_Main_EN](NS_Main_EN.md)
 
 ## Project History.
 
