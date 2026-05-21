@@ -18,8 +18,8 @@
 - 🇺🇸 English version: [RoadMap_EN](RoadMap_EN.md)
 
 ## Album 1: «Synthetic but Fine»
-- 🇷🇺 Russian version: [Synthetic but Fine_RU](Synthetic but Fine_RU.md)
+- 🇷🇺 Russian version: [Synthetic_but_Fine_RU](Synthetic_but_Fine_RU.md)
   
-- 🇺🇸 English version: [Synthetic but Fine_EN](Synthetic but Fine_EN.md)
+- 🇺🇸 English version: [Synthetic_but_Fine_EN](Synthetic_but_Fine_EN.md)
 
 Central hub of the NebulaStack ecosystem. Projects, docs, philosophy, collaborations, music.
