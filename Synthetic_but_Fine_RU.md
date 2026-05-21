@@ -24,28 +24,30 @@
 
 Названия были придуманы достаточно быстро, проблем с этим не возникло. В них заложены основные мысли и идеи каждой песни.
 
+---
 ### Трек «Stacking Light»
 
-Бодрая мелодия, яркие переходы, сильные фразы – **потенциал NebulaStack**.
+• Бодрая мелодия, яркие переходы, сильные фразы – **потенциал NebulaStack**.
 
-Это ночная ода программисту-одиночке, который превращает тишину, ошибки, бессоницу в свет – строчка за строчкой. 
+• Это ночная ода программисту-одиночке, который превращает тишину, ошибки, бессоницу в свет – строчка за строчкой. 
 
-NebulaStack здесь не просто инструмент, а личное пространство творения: место, где из пустоты и сомнений рождается будущее.
+• NebulaStack здесь не просто инструмент, а личное пространство творения: место, где из пустоты и сомнений рождается будущее.
 
-Этот трек появился раньше всех, и именно он не давал опускать руки, добавляя силы на создание следующих трёх. 
+• Этот трек появился раньше всех, и именно он не давал опускать руки, добавляя силы на создание следующих трёх. 
 
-Текст данного трека с переводом:
+• Текст данного трека с переводом:
 
----
 **[Intro]**
+
 Neon bleeds into the haze
 (Неон впитывается в дымку)
 
 Static hums the quiet days
 (Статика гудит тихими днями)
 
-
+()
 **[Verse 1]**
+
 I'm staring at the glow of a screen that won't sleep
 (Я смотрю на свечение экрана, который не спит)
 
@@ -58,8 +60,9 @@ Coffee steam curls with the code I weave
 Building something real where the dark meets the sheen
 (Строю что-то настоящее там, где тьма встречается с блеском)
 
-
+()
 **[Verse 2]**
+
 They're all asleep in their quiet beds
 (Они все спят в своих тихих постелях)
 
@@ -72,8 +75,9 @@ Every line's a step to a world I'll make
 No loud rebellion, just a choice to awake
 (Никакого громкого бунта, просто выбор – проснуться)
 
-
+()
 **[Chorus]**
+
 NebulaStack, I'm stacking light in the dark
 (NebulaStack, я складываю свет во тьме)
 
@@ -86,8 +90,9 @@ Turning silence into a star I can hold
 NebulaStack, my future's unfolding
 (NebulaStack, моё будущее разворачивается)
 
-
+()
 **[Verse 3]**
+
 I've got dust on my sleeves and a plan in my head
 (У меня пыль на рукавах и план в голове)
 
@@ -100,8 +105,9 @@ No one sees the work that's under the skin
 Just a kid with a vision, ready to begin
 (Просто ребёнок с видением, готовый начать)
 
-
+()
 **[Verse 4]**
+
 They say the night's for resting, for letting it go
 (Говорят, ночь для отдыха, чтобы отпустить)
 
@@ -114,8 +120,9 @@ Every bug's a lesson, every crash a start
 I'm building something that'll outlast the dark
 (Я строю то, что переживёт тьму)
 
-
+()
 **[Chorus]**
+
 NebulaStack, I'm stacking light in the dark
 (NebulaStack, я складываю свет во тьме)
 
@@ -128,8 +135,9 @@ Turning silence into a star I can hold
 NebulaStack, my future's unfolding
 (NebulaStack, моё будущее разворачивается)
 
-
+()
 **[Verse 5]**
+
 I've felt the weight of the quiet doubt
 (Я чувствовал тяжесть тихого сомнения)
 
@@ -142,8 +150,9 @@ But every line's a promise I can't break
 I'm gonna keep building, no matter the stakes
 (Я буду продолжать строить, несмотря ни на что)
 
-
+()
 **[Verse 6]**
+
 I'm not running from the dark, I'm lighting the way
 (Я не убегаю от тьмы, я освещаю путь)
 
@@ -156,8 +165,9 @@ Every late night's a step to the sky
 I'm gonna make it shine, watch me fly
 (Я заставлю это сиять, смотри, как я лечу)
 
-
+()
 **[Chorus]**
+
 NebulaStack, I'm stacking light in the dark
 (NebulaStack, я складываю свет во тьме)
 
@@ -170,8 +180,9 @@ Turning silence into a star I can hold
 NebulaStack, my future's unfolding
 (NebulaStack, моё будущее разворачивается)
 
-
+()
 **[Chorus]**
+
 NebulaStack, I'm stacking light in the dark
 (NebulaStack, я складываю свет во тьме)
 
@@ -184,8 +195,9 @@ Turning nothing into a world I can hold
 NebulaStack, my future's unfolding
 (NebulaStack, моё будущее разворачивается)
 
-
+()
 **[Outro]**
+
 Neon fades into the dawn
 (Неон угасает в рассвете)
 
@@ -207,7 +219,6 @@ NebulaStack's light carries on
 
 Текст данного трека с переводом:
 
----
 **[Intro]**
 Streetlights bleed through fog
 (Фонари расплываются в тумане)
