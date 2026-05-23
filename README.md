@@ -13,9 +13,9 @@
 - 🇺🇸 English version: [History_EN](NS_History_EN.md)
 
 ## Upcoming Updates.
-- 🇷🇺 Russian version: [RoadMap_RU](RoadMap_RU.md)
+- 🇷🇺 Russian version: [RoadMap_RU](NS_RoadMap_RU.md)
   
-- 🇺🇸 English version: [RoadMap_EN](RoadMap_EN.md)
+- 🇺🇸 English version: [RoadMap_EN](NS_RoadMap_EN.md)
 
 ## Album 1: «Synthetic but Fine»
 - 🇷🇺 Russian version: [Synthetic_but_Fine_RU](Synthetic_but_Fine_RU.md)
