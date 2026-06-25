@@ -2,7 +2,7 @@
 
 ## About Founder (Me)
 
-- 🇷🇺 Russian version: [NS_Main_RU](NS_Main_RU.md)
+- 🇷🇺 Russian version: [Details →](NS_Main_RU.md)
   
 - 🇺🇸 English version: [NS_Main_EN](NS_Main_EN.md)
 
