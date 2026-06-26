@@ -37,4 +37,5 @@
 - 🇷🇺 Russian version: [Details →](Synthetic_but_Fine_RU.md)
   
 - 🇺🇸 English version: [Details →](Synthetic_but_Fine_EN.md)
+
 Central hub of the NebulaStack ecosystem. Projects, docs, philosophy, collaborations, music.
