@@ -4,8 +4,8 @@
 
 ## 🔗 About Founder (Me)
 
-* 🇷🇺 Russian version: [Details →](NS_Main_RU.md)
-* 🇺🇸 English version: [Details →](NS_Main_EN.md)
+* 🇷🇺 Russian version: [Details →](AboutMe_RU.md)
+* 🇺🇸 English version: [Details →](AboutMe_EN.md)
 
 ## 📖 Main Information
 
