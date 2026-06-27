@@ -16,7 +16,7 @@ The primary goal of **NebulaStack** is not only to showcase completed products b
 
 * **Technology Stack:** Python, C#, Java, Unity, Construct 3, OpenClaw
 
-* **Platforms:** GitHub, Telegram, IT Events, YouTube
+* **Platforms:** GitHub, Telegram, ITD, YouTube
 
 * **Primary Languages:** Russian, English
 
