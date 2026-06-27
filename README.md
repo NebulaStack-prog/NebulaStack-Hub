@@ -38,5 +38,6 @@
 * **Telegram bot:** @NebulaStackBot
 * **GitHub:** Right here
 * **Email:** nebulastackco@gmail.com
+* **YouTube:** @NebulaStackCo / @NebulaStack-Co
 
 > **NebulaStack is more than a collection of projects. It is a documented journey of continuous learning, engineering and exploration.**
