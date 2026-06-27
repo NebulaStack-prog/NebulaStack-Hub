@@ -42,7 +42,7 @@ A symbol of personal growth and independence.
 
 The protagonist leaves behind expectations, external pressure, and distractions, moving toward a place where creation exists simply for its own sake.
 
-Although every track tells a different story, they are connected through recurring symbols, nighttime imagery, technology, and the idea of continuous personal growth.
+**Although every track tells a different story, they are connected through recurring symbols, nighttime imagery, technology, and the idea of continuous personal growth.**
 
 # 3. Album Title
 
