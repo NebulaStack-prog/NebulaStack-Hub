@@ -14,8 +14,8 @@
 
 ### 📜 Project History
 
-* 🇷🇺 Russian version: **Details →**
-* 🇺🇸 English version: **Details →**
+* 🇷🇺 Russian version: [Details →](NS_History_RU.md)
+* 🇺🇸 English version: [Details →](NS_History_EN.md)
 
 ### 🚀 Roadmap
 
