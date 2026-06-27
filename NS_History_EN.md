@@ -54,6 +54,6 @@ It combines a black hole with an accretion disk that naturally transforms into t
 
 The logo is executed in a minimalist monochrome style on a black background and represents the central philosophy of NebulaStack:
 
-**Knowledge attracts knowledge.**
+> **Knowledge attracts knowledge.**
 
 Just as a black hole grows by attracting surrounding matter, NebulaStack continuously expands by absorbing new technologies, projects, and experience.
