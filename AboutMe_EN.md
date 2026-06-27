@@ -1,6 +1,6 @@
 # 👤 About the Founder
 
-Hello!
+**Hello!**
 
 My name is **Mikhail**, and I am the creator of **NebulaStack**.
 
@@ -20,6 +20,6 @@ My current interests include:
 
 I believe that practical experience is the best teacher. Every project in NebulaStack is another step toward becoming a better developer and engineer.
 
-Thank you for visiting NebulaStack.
+**Thank you for visiting NebulaStack.**
 
-The journey has only just begun.
+**The journey has only just begun.**
