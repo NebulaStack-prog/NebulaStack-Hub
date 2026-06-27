@@ -9,8 +9,8 @@
 
 ### 📖 Main Information
 
-* 🇷🇺 Russian version: **Details →**
-* 🇺🇸 English version: **Details →**
+* 🇷🇺 Russian version: [Details →](NS_Main_RU.md)
+* 🇺🇸 English version: [Details →](NS_Main_EN.md)
 
 ### 📜 Project History
 
