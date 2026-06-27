@@ -1,4 +1,4 @@
-# 🌌 NebulaStack Hub
+# 🌌 NebulaStack–Hub
 
 > **The central documentation repository of the NebulaStack ecosystem.**
 
