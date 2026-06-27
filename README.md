@@ -1,41 +1,67 @@
-# NebulaStack-Hub
+# 🌌 NebulaStack Hub
 
-## About the Founder (Me)
+> **The central documentation repository of the NebulaStack ecosystem.**
 
-- 🇷🇺 Russian version: [Details →](NS_Main_RU.md)
-  
-- 🇺🇸 English version: [Details →](NS_Main_EN.md)
+# 🔗 About Founder (Me)
 
-## About NebulaStack
+* 🇷🇺 Russian version: **Details →**
+* 🇺🇸 English version: **Details →**
 
-- 🇷🇺 Russian version: [Details →](NS_Main_RU.md)
-  
-- 🇺🇸 English version: [Details →](NS_Main_EN.md)
+# 📖 Main Information
 
-## Project History
+* 🇷🇺 Russian version: **Details →**
+* 🇺🇸 English version: **Details →**
 
-- 🇷🇺 Russian version: [Details →](NS_History_RU.md)
-  
-- 🇺🇸 English version: [Details →](NS_History_EN.md)
+# 📜 Project History
 
-## Future Plans
-- 🇷🇺 Russian version: [Details →](NS_RoadMap_RU.md)
-  
-- 🇺🇸 English version: [Details →](NS_RoadMap_EN.md)
+* 🇷🇺 Russian version: **Details →**
+* 🇺🇸 English version: **Details →**
 
-## Philosophy
-- 🇷🇺 Russian version: [Details →](NS_RoadMap_RU.md)
-  
-- 🇺🇸 English version: [Details →](NS_RoadMap_EN.md)
-  
-## Album 1: «Synthetic but Fine»
-- 🇷🇺 Russian version: [Details →](Synthetic_but_Fine_RU.md)
-  
-- 🇺🇸 English version: [Details →](Synthetic_but_Fine_EN.md)
+# 🚀 Roadmap
 
-## Album 2: «Racing Line 1-3»
-- 🇷🇺 Russian version: [Details →](Synthetic_but_Fine_RU.md)
-  
-- 🇺🇸 English version: [Details →](Synthetic_but_Fine_EN.md)
+* 🇷🇺 Russian version: **Details →**
+* 🇺🇸 English version: **Details →**
 
-Central hub of the NebulaStack ecosystem. Projects, docs, philosophy, collaborations, music.
+# 💻 NebulaStack – Infotech
+
+* 🇷🇺 Russian version: **Details →**
+* 🇺🇸 English version: **Details →**
+
+# 🎮 NebulaStack – Games
+
+* 🇷🇺 Russian version: **Details →**
+* 🇺🇸 English version: **Details →**
+
+# 🤖 NebulaStack – Robotech
+
+* 🇷🇺 Russian version: **Details →**
+* 🇺🇸 English version: **Details →**
+
+# 🧪 NebulaStack – Labs
+
+* 🇷🇺 Russian version: **Details →**
+* 🇺🇸 English version: **Details →**
+
+# 🔬 NebulaStack – Explore
+
+* 🇷🇺 Russian version: **Details →**
+* 🇺🇸 English version: **Details →**
+
+# 🎵 Album 1 — "Synthetic but Fine"
+
+* 🇷🇺 Russian version: **Details →**
+* 🇺🇸 English version: **Details →**
+
+# 🏎 Album 2 — "Racing Line 1–3"
+
+* 🇷🇺 Russian version: **Details →**
+* 🇺🇸 English version: **Details →**
+
+# 📫 Contacts
+
+* **Telegram channel:** @NebulaStack
+* **Telegram bot:** @NebulaStackBot
+* **GitHub:** Right here
+* **Email:** nebulastackco@gmail.com
+
+> **NebulaStack is more than a collection of projects. It is a documented journey of continuous learning, engineering and exploration.**
