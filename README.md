@@ -38,7 +38,7 @@
   
 * 🇺🇸 English version: **Details →**
 
-## ☀️ Album 3 – "Three Season but One"
+## ☀️ Album 3 – "Three Seasons but One"
 
 * 🇷🇺 Russian version: **Details →**
   
