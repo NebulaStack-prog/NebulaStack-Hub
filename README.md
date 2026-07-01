@@ -38,6 +38,12 @@
   
 * 🇺🇸 English version: **Details →**
 
+## ☀️ Album 3 – "Three Season but One"
+
+* 🇷🇺 Russian version: **Details →**
+  
+* 🇺🇸 English version: **Details →**
+
 ## 📫 Contacts
 
 * **Telegram channel:** @NebulaStack
