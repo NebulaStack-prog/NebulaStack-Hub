@@ -134,4 +134,4 @@ NebulaStack является площадкой для накопления зн
 
 **Website:** https://nebulastack.space
 
-***We open black, we own the track, we cut the lag – NebulaStack.***
+> ***We open black, we own the track, we cut the lag – NebulaStack.***
