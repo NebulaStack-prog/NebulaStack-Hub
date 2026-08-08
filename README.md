@@ -36,6 +36,6 @@
   
 * **Email:** nebulastackco@gmail.com
   
-* **YouTube:** @NebulaStackCo / @NebulaStack-Co
+* **YouTube:** @NebulaStackCo / @NESTIMS
 
 > **NebulaStack is more than a collection of projects. It is a documented journey of continuous learning, engineering and exploration.**
