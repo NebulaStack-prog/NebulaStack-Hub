@@ -14,7 +14,7 @@
   
 * **Основное направление:** Artificial Intelligence & Software Development
   
-* **Технологический стек:** Python, C#, Java, Unity, Construct 3,  OpenClaw
+* **Технологический стек:** Python, C#, Java, Unity, Construct 3, OpenClaw
   
 * **Платформы:** GitHub, Telegram, ИТД, YouTube
   
