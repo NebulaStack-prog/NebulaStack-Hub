@@ -1,5 +1,7 @@
 # 🌌 NebulaStack–Hub
 
+<img src="https://github.com/NebulaStack-prog/NebulaStack-Hub/raw/main/MP.jpg" width="200" height="230">
+
 > **The central documentation repository of the NebulaStack ecosystem.**
 
 ## 🔗 About Founder (Me)
