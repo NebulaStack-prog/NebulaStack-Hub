@@ -10,15 +10,11 @@
   
 * 🇺🇸 English version: [Details →](AboutMe_EN.md)
 
-<img src="https://github.com/NebulaStack-prog/NebulaStack-Hub/raw/main/NS.jpg" width="200" height="230">
-
 ## 📖 Main Information
 
 * 🇷🇺 Russian version: [Details →](NS_Main_RU.md)
   
 * 🇺🇸 English version: [Details →](NS_Main_EN.md)
-
-<img src="https://github.com/NebulaStack-prog/NebulaStack-Hub/raw/main/NESTIMS.jpg" width="200" height="230">
 
 ## 📜 Project History
 
@@ -43,5 +39,9 @@
 * **Email:** nebulastackco@gmail.com
   
 * **YouTube:** @NebulaStackCo / @NESTIMS
+
+<img src="https://github.com/NebulaStack-prog/NebulaStack-Hub/raw/main/NS.jpg" width="100" height="115">
+
+<img src="https://github.com/NebulaStack-prog/NebulaStack-Hub/raw/main/NESTIMS.jpg" width="100" height="115">
 
 > **NebulaStack is more than a collection of projects. It is a documented journey of continuous learning, engineering and exploration.**
