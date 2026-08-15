@@ -28,6 +28,12 @@
   
 * 🇺🇸 English version: **Details →**
 
+## 🎶 Music
+
+* 🇷🇺 Russian version: [Details →](Synthetic_but_Fine_RU.md)
+  
+* 🇺🇸 English version: [Details →](Synthetic_but_Fine_EN.md)
+
 ## 📫 Contacts
 
 * **Telegram channel:** @NebulaStack
