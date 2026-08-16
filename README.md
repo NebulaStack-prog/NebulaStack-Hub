@@ -49,3 +49,5 @@
 <img src="https://github.com/NebulaStack-prog/NebulaStack-Hub/raw/main/NS.jpg" width="150" height="172"> <img src="https://github.com/NebulaStack-prog/NebulaStack-Hub/raw/main/NESTIMS.jpg" width="150" height="172">
 
 > **NebulaStack is more than a collection of projects. It is a documented journey of continuous learning, engineering and exploration.**
+
+> **NESTIMS – NebulaStack by I.M. Smirnov.**
