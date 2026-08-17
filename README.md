@@ -27,7 +27,7 @@ NebulaStack is divided into several specialized directions, each focused on a di
 Software engineering, artificial intelligence, automation, applications and technological products.
 
 → [NebulaStack-Infotech](https://github.com/NebulaStack-prog/NebulaStack-Infotech)
-### •🎮 Games
+### • 🎮 Games
 
 Game development, interactive experiences and experimental game projects.
 
