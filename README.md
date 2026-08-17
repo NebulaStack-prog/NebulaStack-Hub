@@ -48,13 +48,13 @@ Robotics, engineering, hardware and physical technological projects.
 
 → [NebulaStack-Robotech](https://github.com/NebulaStack-prog/NebulaStack-Robotech)
 
-### 🔬 Labs
+### 🧪 Labs
 
 Scientific experiments, physical research, crystallogenesis and biotechnology projects.
 
 → [NebulaStack-Labs](https://github.com/NebulaStack-prog/NebulaStack-Labs)
 
-### 🔭 Explore
+### 🔬 Explore
 
 Research, observations, phenomena and analytical projects.
 
