@@ -16,6 +16,58 @@
   
 * 🇺🇸 English version: [Details →](NS_Main_EN.md)
 
+## 🧩 Ecosystem
+
+NebulaStack is divided into several specialized directions, each focused on a different aspect of development, research and creativity.
+
+### 💻 Infotech
+
+**Infrastructure, tools, and logic — the backbone of NebulaStack.**
+
+Software engineering, artificial intelligence, automation, applications and technological products.
+
+→ [NebulaStack-Infotech](https://github.com/NebulaStack-prog/NebulaStack-Infotech)
+
+### 🎮 Games
+
+Game development, interactive experiences and experimental game projects.
+
+→ [NebulaStack-Games](https://github.com/NebulaStack-prog/NebulaStack-Games)
+
+### 🧠 Olymp
+
+**Algorithms, logic, and problem solving — the competitive core of NebulaStack.**
+
+Competitive programming, olympiad training, algorithms and mathematical problem solving.
+
+→ [NebulaStack-Olymp](https://github.com/NebulaStack-prog/NebulaStack-Olymp)
+
+### 🤖 Robotech
+
+Robotics, engineering, hardware and physical technological projects.
+
+→ [NebulaStack-Robotech](https://github.com/NebulaStack-prog/NebulaStack-Robotech)
+
+### 🔬 Labs
+
+Scientific experiments, physical research, crystallogenesis and biotechnology projects.
+
+→ [NebulaStack-Labs](https://github.com/NebulaStack-prog/NebulaStack-Labs)
+
+### 🔭 Explore
+
+Research, observations, phenomena and analytical projects.
+
+→ [NebulaStack-Explore](https://github.com/NebulaStack-prog/NebulaStack-Explore)
+
+### 🎨 Studio
+
+**Music, visuals, and creativity — the artistic side of NebulaStack.**
+
+Music, visual art, video, emblems and other creative projects.
+
+→ [NebulaStack-Studio](https://github.com/NebulaStack-prog/NebulaStack-Studio)
+
 ## 📜 Project History
 
 * 🇷🇺 Russian version: [Details →](NS_History_RU.md)
