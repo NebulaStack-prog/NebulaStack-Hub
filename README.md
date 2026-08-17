@@ -18,8 +18,6 @@
 
 ## 🧩 Ecosystem
 
-NebulaStack is divided into several specialized directions, each focused on a different aspect of development, research and creativity.
-
 * 💻 **NebulaStack-Infotech:** [Details →](https://github.com/NebulaStack-prog/NebulaStack-Infotech)
 
 * 🎮 **NebulaStack-Games:** [Details →](https://github.com/NebulaStack-prog/NebulaStack-Games)
