@@ -22,7 +22,7 @@ NebulaStack is divided into several specialized directions, each focused on a di
 
 ### 💻 Infotech
 
-**Infrastructure, tools, and logic — the backbone of NebulaStack.**
+**Infrastructure, tools, and logic – the backbone of NebulaStack.**
 
 Software engineering, artificial intelligence, automation, applications and technological products.
 
@@ -36,7 +36,7 @@ Game development, interactive experiences and experimental game projects.
 
 ### 🧠 Olymp
 
-**Algorithms, logic, and problem solving — the competitive core of NebulaStack.**
+**Algorithms, logic, and problem solving – the competitive core of NebulaStack.**
 
 Competitive programming, olympiad training, algorithms and mathematical problem solving.
 
@@ -62,9 +62,9 @@ Research, observations, phenomena and analytical projects.
 
 ### 🎨 Studio
 
-**Music, visuals, and creativity — the artistic side of NebulaStack.**
+**Music, visuals, and creativity – the artistic side of NebulaStack.**
 
-Music, visual art, video, emblems and other creative projects.
+Music, visual art, emblems and other creative projects.
 
 → [NebulaStack-Studio](https://github.com/NebulaStack-prog/NebulaStack-Studio)
 
