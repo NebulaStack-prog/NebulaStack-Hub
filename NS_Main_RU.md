@@ -12,9 +12,9 @@
 
 * **Статус:** Активная разработка
   
-* **Основное направление:** Artificial Intelligence & Software Development
+* **Основное направление:** Software Development & Artificial Intelligence 
   
-* **Технологический стек:** Python, C#, Java, Unity, Construct 3, OpenClaw
+* **Технологический стек:** Python, C#, Java, Unity, Construct 3, OpenClaw, HTML, C++
   
 * **Платформы:** GitHub, Telegram, ИТД, YouTube
   
