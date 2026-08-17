@@ -74,18 +74,6 @@ Music, visual art, video, emblems and other creative projects.
   
 * 🇺🇸 English version: [Details →](NS_History_EN.md)
 
-## 🚀 Roadmap
-
-* 🇷🇺 Russian version: **Details →**
-  
-* 🇺🇸 English version: **Details →**
-
-## 🎶 Music
-
-* 🇷🇺 Russian version: [Details →](Synthetic_but_Fine_RU.md)
-  
-* 🇺🇸 English version: [Details →](Synthetic_but_Fine_EN.md)
-
 ## 📫 Contacts
 
 * **Telegram channel:** @NebulaStack
