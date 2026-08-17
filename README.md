@@ -20,7 +20,7 @@
 
 NebulaStack is divided into several specialized directions, each focused on a different aspect of development, research and creativity.
 
-### • 💻 Infotech
+* 💻 **Infotech**
 
 **Infrastructure, tools, and logic – the backbone of NebulaStack.**
 
@@ -28,7 +28,7 @@ Software engineering, artificial intelligence, automation, applications and tech
 
 → [NebulaStack-Infotech](https://github.com/NebulaStack-prog/NebulaStack-Infotech)
 
-### • 🎮 Games
+* 🎮 **Games**
 
 Game development, interactive experiences and experimental game projects.
 
