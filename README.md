@@ -20,19 +20,19 @@
 
 NebulaStack is divided into several specialized directions, each focused on a different aspect of development, research and creativity.
 
-* 💻 Infotech: [Details →](https://github.com/NebulaStack-prog/NebulaStack-Infotech)
+* 💻 NebulaStack-Infotech: [Details →](https://github.com/NebulaStack-prog/NebulaStack-Infotech)
 
-* 🎮 Games: [Details →](https://github.com/NebulaStack-prog/NebulaStack-Games)
+* 🎮 NebulaStack-Games: [Details →](https://github.com/NebulaStack-prog/NebulaStack-Games)
 
-* 🧠 Olymp: [Details →](https://github.com/NebulaStack-prog/NebulaStack-Olymp)
+* 🧠 NebulaStack-Olymp: [Details →](https://github.com/NebulaStack-prog/NebulaStack-Olymp)
 
-* 🤖 Robotech: [Details →](https://github.com/NebulaStack-prog/NebulaStack-Robotech)
+* 🤖 NebulaStack-Robotech: [Details →](https://github.com/NebulaStack-prog/NebulaStack-Robotech)
 
-* 🧪 Labs: [Details →](https://github.com/NebulaStack-prog/NebulaStack-Labs)
+* 🧪 NebulaStack-Labs: [Details →](https://github.com/NebulaStack-prog/NebulaStack-Labs)
 
-* 🔬 Explore: [Details →](https://github.com/NebulaStack-prog/NebulaStack-Explore)
+* 🔬 NebulaStack-Explore: [Details →](https://github.com/NebulaStack-prog/NebulaStack-Explore)
 
-* 🎨 Studio: [Details →](https://github.com/NebulaStack-prog/NebulaStack-Studio)
+* 🎨 NebulaStack-Studio: [Details →](https://github.com/NebulaStack-prog/NebulaStack-Studio)
 
 ## 📜 Project History
 
