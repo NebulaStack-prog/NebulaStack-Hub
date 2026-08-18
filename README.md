@@ -1,4 +1,4 @@
-# 🌌 NebulaStack–Hub
+# 🌌 NebulaStack – Hub
 
 <img src="https://github.com/NebulaStack-prog/NebulaStack-Hub/raw/main/MP.jpg" width="200" height="230">
 
