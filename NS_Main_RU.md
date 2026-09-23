@@ -16,7 +16,7 @@
   
 * **Технологический стек:** Python, C#, Java, Unity, Construct 3, OpenClaw, HTML, C++
   
-* **Платформы:** GitHub, Telegram, ИТД, YouTube
+* **Платформы:** GitHub, Telegram, ИТД, YouTube, TikTok
   
 * **Основные языки:** русский, английский
   
