@@ -1,12 +1,12 @@
-# NebulaStack
+# NESTIMS
 
-## What is NebulaStack?
+## What is NESTIMS?
 
-**NebulaStack (NS)** is a personal technology brand and ecosystem of projects.
+**NESTIMS (NebulaStack/NS)** is a personal technology brand and ecosystem of projects.
 
 The project brings together software development, artificial intelligence, research initiatives, game development, and engineering experiments within a unified space.
 
-The primary goal of **NebulaStack** is not only to showcase completed results but also to document the entire development journey — from the initial idea and early prototypes to fully developed products and research projects.
+The primary goal of **NESTIMS** is not only to showcase completed results but also to document the entire development journey — from the initial idea and early prototypes to fully developed products and research projects.
 
 ## General Information
 
@@ -22,15 +22,15 @@ The primary goal of **NebulaStack** is not only to showcase completed results bu
   
 * **Project Founded:** December 31, 2025
 
-## NebulaStack Structure
+## NESTIMS Structure
 
-**NebulaStack** is organized into several specialized directions, each containing its own projects, research, and documentation.
+**NESTIMS** is organized into several specialized directions, each containing its own projects, research, and documentation.
 
 ### 1. NebulaStack-Hub
 
 The central repository of the project.
 
-Contains the main information about NebulaStack, documentation, roadmaps, and the overall ecosystem structure.
+Contains the main information about NESTIMS, documentation, roadmaps, and the overall ecosystem structure.
 
 ### 2. NebulaStack-Infotech
 
@@ -62,7 +62,7 @@ Game development, experiments with game mechanics, and research into the history
 
 ### 5. NebulaStack-Labs
 
-The research laboratory of NebulaStack.
+The research laboratory of NESTIMS.
 
 Includes:
 
@@ -100,7 +100,7 @@ Includes:
 
 ### 7. NebulaStack-Olymp
 
-The competitive and olympiad programming direction of NebulaStack.
+The competitive and olympiad programming direction of NESTIMS.
 
 Includes:
 
@@ -116,7 +116,7 @@ Includes:
 
 ### 8. NebulaStack-Studio
 
-The creative and media direction of NebulaStack.
+The creative and media direction of NESTIMS.
 
 Includes:
 
@@ -132,11 +132,11 @@ Includes:
   
 * Creative concepts
 
-Studio combines technology and creativity, forming the visual and cultural side of NebulaStack.
+Studio combines technology and creativity, forming the visual and cultural side of NESTIMS.
 
 ## Project Philosophy
 
-**NebulaStack** is built upon several core principles:
+**NESTIMS** is built upon several core principles:
 
 ### 1. Honesty
 
@@ -148,7 +148,7 @@ Every significant stage of development is documented and preserved.
 
 ### 3. Continuous Growth
 
-NebulaStack is considered a long-term project that evolves together with its creator.
+NESTIMS is considered a long-term project that evolves together with its creator.
 
 ### 4. Openness
 
@@ -160,7 +160,7 @@ Every idea should strive to become a working prototype or a real product.
 
 ## Project History
 
-NebulaStack began as a series of small technical experiments.
+NESTIMS began as a series of small technical experiments.
 
 Over time, the project evolved into a comprehensive technology portfolio combining software development, artificial intelligence, game development, and engineering.
 
@@ -168,7 +168,7 @@ A major milestone in its development was the adoption of modern AI tools and the
 
 ## Current Direction
 
-At the current stage, NebulaStack is primarily focused on:
+At the current stage, NESTIMS is primarily focused on:
 
 * Artificial Intelligence and AI assistants
 
@@ -188,7 +188,7 @@ At the current stage, NebulaStack is primarily focused on:
 
 To build a strong technology portfolio that reflects real skills, experience, and completed work.
 
-NebulaStack serves as a platform for accumulating knowledge, publishing projects, and demonstrating continuous professional growth.
+NESTIMS serves as a platform for accumulating knowledge, publishing projects, and demonstrating continuous professional growth.
 
 ## Contacts
 
