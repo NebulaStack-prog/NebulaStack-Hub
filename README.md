@@ -52,7 +52,7 @@
   
 * **GitHub:** Right here
   
-* **Email:** nebulastackco@gmail.com
+* **Email:** nebulastackco(at)gmail.com
   
 * **YouTube:** @NebulaStackCo / @NESTIMS
 
