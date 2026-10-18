@@ -14,7 +14,7 @@ The primary goal of **NESTIMS** is not only to showcase completed results but al
   
 * **Primary Focus:** Software Development & Artificial Intelligence
   
-* **Technology Stack:** Python, C#, Java, Unity, Construct 3, OpenClaw, HTML, C++
+* **Technology Stack:** Python, C#, Java, Unity, Construct 3, OpenClaw, HTML, C++, TypeScript, Vite, CSS, React
   
 * **Platforms:** GitHub, Telegram, YouTube, and others
   
