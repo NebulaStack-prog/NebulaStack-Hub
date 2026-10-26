@@ -219,15 +219,7 @@ Phase III не ограничивается одним языком програ
 
 NESTIMS стремится объединить разработку, исследования и творчество в единую экосистему, где идеи получают практическое воплощение, результаты документируются, а успешные подходы становятся основой для дальнейшего развития.
 
-## Контакты и ресурсы
-
-* **Telegram:** [@NebulaStack](https://t.me/NebulaStack)
-  
-* **Telegram-бот:** [@NebulaStackBot](https://t.me/NebulaStackBot)
-  
-* **E-mail:** [nebulastackco(at)gmail.com](mailto:nebulastackco@gmail.com)
-  
-* **GitHub:** вы находитесь здесь.
+ здесь.
   
 * **Website:** https://nebulastack.space
 
