@@ -227,7 +227,7 @@ NESTIMS стремится объединить разработку, иссле
   
 * **E-mail:** [nebulastackco(at)gmail.com](mailto:nebulastackco@gmail.com)
   
-* **GitHub:** вы находитесь в центральном репозитории NESTIMS.
+* **GitHub:** вы находитесь здесь.
   
 * **Website:** https://nebulastack.space
 
