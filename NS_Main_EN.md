@@ -1,205 +1,101 @@
 # NESTIMS
 
-## What is NESTIMS?
+**NESTIMS is a personal technology brand and project portfolio.**
 
-**NESTIMS (NebulaStack/NS)** is a personal technology brand and ecosystem of projects.
+NESTIMS brings together my projects in software development, artificial intelligence, research, engineering, and creative work. Here, I explore emerging technologies, build my own solutions, and document the development process.
 
-The project brings together software development, artificial intelligence, research initiatives, game development, and engineering experiments within a unified space.
-
-The primary goal of **NESTIMS** is not only to showcase completed results but also to document the entire development journey — from the initial idea and early prototypes to fully developed products and research projects.
+**The core idea behind NESTIMS is to use technology to create interesting and useful solutions.**
 
 ## General Information
 
-* **Status:** Active Development
+* **Name:** NESTIMS
   
-* **Primary Focus:** Software Development & Artificial Intelligence
+* **Former name:** NebulaStack
   
-* **Technology Stack:** Python, C#, Java, Unity, Construct 3, OpenClaw, HTML, C++, TypeScript, Vite, CSS, React
+* **Founded:** December 31, 2025
   
-* **Platforms:** GitHub, Telegram, YouTube, and others
+* **Status:** Actively developing
   
-* **Primary Languages:** Russian, English
+* **Primary focus:** Software development and artificial intelligence
   
-* **Project Founded:** December 31, 2025
+* **Other areas:** Game development, engineering, research, and creative work
+  
+* **Core technologies:** Python, C#, Java, C++, TypeScript, JavaScript, React, Vite, HTML, CSS, Unity, and Construct 3
+  
+* **Platforms:** GitHub, Telegram, YouTube, and TikTok
+  
+* **Languages:** Russian and English
 
 ## NESTIMS Structure
 
-**NESTIMS** is organized into several specialized directions, each containing its own projects, research, and documentation.
+NESTIMS projects are organized into specialized areas, each dedicated to a particular type of development or content.
 
 ### 1. NebulaStack-Hub
 
-The central repository of the project.
+The central repository of the ecosystem.
 
-Contains the main information about NESTIMS, documentation, roadmaps, and the overall ecosystem structure.
+It contains core documentation, the project's history, development plans, and information about other areas of the ecosystem.
 
 ### 2. NebulaStack-Infotech
 
 Software development and artificial intelligence.
 
-Includes:
+This area includes:
 
-* AI assistants
+* AI assistants and Telegram bots
   
-* Telegram bots
+* Applications and software tools
   
-* Software tools
+* Web projects
   
-* Automation
-  
-* Applied IT projects
-  
-* Experimental software technologies
-  
-* Large-scale software products
+* Automation and other IT solutions
 
 ### 3. NebulaStack-Robotech
 
-Projects related to robotics, aviation, electronics, and automated systems.
+Engineering projects and technical experiments in robotics, electronics, aviation, and automated systems.
 
 ### 4. NebulaStack-Games
 
-Game development, experiments with game mechanics, and research into the history of the gaming industry.
+Game development.
+
+This area contains games, prototypes, and experiments with gameplay mechanics.
 
 ### 5. NebulaStack-Labs
 
-The research laboratory of NESTIMS.
-
-Includes:
-
-* Experimental projects
-  
-* Crystallogenesis
-  
-* Biotechnology experiments
-  
-* Scientific research
-  
-* Scientific models
-  
-* Concepts
-  
-* Early prototypes of future developments
-
-At the current stage, biotechnology is part of Labs and may become an independent direction in the future as the number and scale of projects grow.
+Experimental projects, new ideas, and prototypes in the early stages of development.
 
 ### 6. NebulaStack-Explore
 
-A collection of research publications.
-
-Includes:
-
-* Research related to the ecosystem
-  
-* Research across selected scientific fields
-  
-* Observations of natural and physical phenomena
-  
-* Analytical materials
-  
-* Science-related publications
+Research materials, analytical publications, and explorations of various technologies and scientific fields.
 
 ### 7. NebulaStack-Olymp
 
-The competitive and olympiad programming direction of NESTIMS.
+Study materials and notes related to the Unified State Exam (EGE) and academic olympiad problems.
 
-Includes:
-
-* Solutions to olympiad problems
-  
-* Algorithms and data structures
-  
-* Mathematical methods
-  
-* Olympiad preparation
-  
-* Competitive programming
+This area includes concise hints for selected problems, excerpts from olympiad problem-solving ideas, algorithms, and mathematical methods.
 
 ### 8. NebulaStack-Studio
 
-The creative and media direction of NESTIMS.
+The creative branch of NESTIMS.
 
-Includes:
+It features visual experiments, brand artwork reimagined in fictional universes, emblems, and other graphic design projects.
 
-* Music projects
-  
-* Visual art
-  
-* Emblems and brand identity elements
-  
-* Graphic experiments
-  
-* Video and media materials
-  
-* Creative concepts
+## Principles
 
-Studio combines technology and creativity, forming the visual and cultural side of NESTIMS.
+**Hands-on Learning.** Learn technologies through personal projects and experimentation.
 
-## Project Philosophy
+**Honesty.** Showcase actual results and be transparent about the limitations of each project.
 
-**NESTIMS** is built upon several core principles:
+**Documentation.** Preserve important decisions, materials, and development outcomes.
 
-### 1. Honesty
+**Continuous Improvement.** Refine existing projects, explore new tools, and experiment with different approaches.
 
-Sharing not only achievements but also mistakes, failures, and the process of finding solutions.
+**Creativity.** Combine technical development with experimentation in games, graphics, and other creative fields.
 
-### 2. Documentation
+## The Mission of NESTIMS
 
-Every significant stage of development is documented and preserved.
+To strengthen my technical skills, build engaging projects, explore modern technologies, and gradually move from individual experiments toward solutions that address real-world problems.
 
-### 3. Continuous Growth
+NESTIMS is a record of my journey in software development and technology, preserved through projects and documentation.
 
-NESTIMS is considered a long-term project that evolves together with its creator.
-
-### 4. Openness
-
-Most projects, research, and developments are published openly.
-
-### 5. Practice Before Theory
-
-Every idea should strive to become a working prototype or a real product.
-
-## Project History
-
-NESTIMS began as a series of small technical experiments.
-
-Over time, the project evolved into a comprehensive technology portfolio combining software development, artificial intelligence, game development, and engineering.
-
-A major milestone in its development was the adoption of modern AI tools and the creation of custom AI assistants, which defined the further direction of the Infotech division.
-
-## Current Direction
-
-At the current stage, NESTIMS is primarily focused on:
-
-* Artificial Intelligence and AI assistants
-
-* Software product development
-  
-* Competitive programming and algorithms
-  
-* Research and scientific projects
-  
-* Engineering projects
-  
-* Creative and media development
-  
-* Building a unified technology ecosystem
-
-## Project Goal
-
-To build a strong technology portfolio that reflects real skills, experience, and completed work.
-
-NESTIMS serves as a platform for accumulating knowledge, publishing projects, and demonstrating continuous professional growth.
-
-## Contacts
-
-**Telegram Channel:** @NebulaStack
-
-**Telegram Bot:** @NebulaStackBot
-
-**E-mail:** [nebulastackco@gmail.com](mailto:nebulastackco@gmail.com)
-
-**GitHub:** You are here.
-
-**Website:** https://nebulastack.space
-
-> ***We open black, we own the track, we cut the lag — NebulaStack.***
+> **NESTIMS – From Idea to Solution.**
