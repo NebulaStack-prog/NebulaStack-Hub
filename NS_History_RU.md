@@ -1,87 +1,87 @@
-# История NESTIMS
+# The History of NESTIMS
 
-## 1. Начало NebulaStack
+## 1. The Beginning of NebulaStack
 
-История NebulaStack началась во время популярности проектов формата **Tap-to-Earn (TTE)** в Telegram. В тот период я заинтересовался блокчейн-технологиями и начал изучать принципы работы криптовалют.
+The story of NebulaStack began during the rise of **Tap-to-Earn (TTE)** projects on Telegram. At the time, I became interested in blockchain technology and started exploring how cryptocurrencies work.
 
-Так появилась идея создать собственную цифровую монету под названием **NebulaStack**. Для неё я разработал первую эмблему и рассматривал возможность развития проекта на платформе Blum.
+This led to the idea of creating my own digital coin called **NebulaStack**. I designed its first emblem and considered developing the project on the Blum platform.
 
-Со временем я понял, что блокчейн – не то направление, которым хочу заниматься в дальнейшем. Поэтому первоначальную идею пришлось отложить.
+Over time, I realized that blockchain was not the field I wanted to pursue in the long term, so I decided to put the original idea aside.
 
-Однако само название NebulaStack мне нравилось, и вместо полного отказа от проекта я решил изменить его концепцию.
+However, I still liked the name NebulaStack. Rather than abandoning the project entirely, I decided to redefine its concept.
 
-## 2. Переход к IT-проектам
+## 2. The Transition to IT Projects
 
-NebulaStack постепенно превратился из идеи криптовалюты в личный проект, связанный с программированием и технологиями.
+NebulaStack gradually evolved from a cryptocurrency concept into a personal project focused on programming and technology.
 
-Я начал создавать небольшие программы, игры и инструменты, пробовать разные языки и технологии. Постепенно количество разработок росло, и возникла необходимость разделить их по направлениям.
+I began creating small programs, games, and tools while experimenting with different programming languages and technologies. As the number of projects grew, it became necessary to organize them into separate areas.
 
-Так сформировалось портфолио, включающее программное обеспечение, игры, инженерные эксперименты, учебные материалы и творческие работы.
+This led to the creation of a portfolio encompassing software, games, engineering experiments, educational materials, and creative work.
 
-Для удобства проекты были распределены по репозиториям Hub, Infotech, Robotech, Games, Labs, Explore, Olymp и Studio.
+For easier organization, the projects were divided into the following repositories: Hub, Infotech, Robotech, Games, Labs, Explore, Olymp, and Studio.
 
-## 3. История названия
+## 3. The Origin of the Name
 
-Название NebulaStack состоит из двух английских слов.
+The name NebulaStack consists of two English words.
 
-**Nebula** – «туманность». Это ассоциация с космосом, масштабом и исследованием неизвестного.
+**Nebula** refers to a cloud of gas and dust in space. It evokes associations with the cosmos, vastness, and the exploration of the unknown.
 
-**Stack** – «стек технологий». Это отсылка к программированию и инструментам, которые используются при разработке.
+**Stack** refers to a technology stack, connecting the name to programming and the tools used in software development.
 
-Вместе они образуют название, которое изначально было связано с идеей цифрового продукта, а затем стало именем всей экосистемы.
+Together, these words form a name that was originally associated with a digital product but eventually became the name of the entire ecosystem.
 
-Позднее основным названием бренда стало **NESTIMS**. При этом NebulaStack остался частью истории проекта и сохранился в названиях существующих направлений.
+Later, **NESTIMS** became the primary brand name. NebulaStack, however, remains part of the project's history and is preserved in the names of its existing areas.
 
-## 4. История эмблемы
+## 4. The Evolution of the Emblem
 
-Эмблема менялась вместе с концепцией проекта.
+The emblem evolved alongside the project's changing concept.
 
-### Первая версия – цифровая монета
+### First Version – The Digital Coin
 
-Первая эмблема была создана для первоначальной идеи криптовалюты NebulaStack. Она представляла собой стилизованную чёрную дыру с названием проекта.
+The first emblem was created for the original NebulaStack cryptocurrency concept. It featured a stylized black hole accompanied by the project name.
 
-### Вторая версия – программирование
+### Second Version – Programming
 
-После перехода к IT-разработкам эмблема изменилась. В ней появились две переплетающиеся змеи Python, окружающие чёрную дыру. Дизайн стал минималистичным и был выполнен на светлом фоне.
+After the transition to IT development, the emblem was redesigned. It featured two intertwined Python snakes surrounding a black hole. The design became minimalist and was presented on a light background.
 
-### Третья версия – эмблема NebulaStack
+### Third Version – The NebulaStack Emblem
 
-В следующей версии чёрная дыра, аккреционное кольцо и змея Python объединились в один знак. Эмблема получила минималистичный монохромный стиль на чёрном фоне.
+In the next version, the black hole, accretion ring, and Python snake were combined into a single symbol. The emblem adopted a minimalist monochrome style against a black background.
 
-С этой версией связана фраза:
+This version was associated with the phrase:
 
-> **«Знания притягивают знания».**
+> **"Knowledge Attracts Knowledge."**
 
-Она отражает идею постоянного изучения новых технологий и накопления опыта.
+It reflects the idea of continuously learning new technologies and building knowledge through experience.
 
 ### NESTIMS
 
-После изменения названия бренда визуальная идентичность также начала развиваться. Новое оформление должно было соответствовать уже не только программированию, но и другим направлениям проекта.
+Following the rebranding, the visual identity began to evolve as well. The new design was intended to represent not only programming but also the project's other areas.
 
-Предыдущие эмблемы остались частью истории NebulaStack.
+The previous emblems remain part of NebulaStack's history.
 
-## 5. Развитие AI-направления
+## 5. The Development of the AI Focus
 
-Позднее я стал больше интересоваться искусственным интеллектом и его практическим применением.
+Over time, I became increasingly interested in artificial intelligence and its practical applications.
 
-Одним из важных этапов стала работа с OpenClaw и создание AI-ассистента. Этот опыт позволил познакомиться с настройкой поведения ассистента, работой с контекстом и развёртыванием приложения в виртуальной среде.
+One important milestone was working with OpenClaw and developing an AI assistant. This experience introduced me to configuring an assistant's behavior, working with context, and deploying an application in a virtual environment.
 
-После этого AI стал одним из основных направлений, которые я хочу развивать в NESTIMS.
+Following this experience, AI became one of the key areas I wanted to develop within NESTIMS.
 
-Меня интересуют не только сами модели, но и то, как с их помощью можно создавать инструменты, автоматизировать процессы и решать практические задачи.
+My interest extends beyond AI models themselves to the ways they can be used to build tools, automate processes, and solve practical problems.
 
-## 6. Переход к NESTIMS
+## 6. The Transition to NESTIMS
 
-По мере развития проекта стало понятно, что NESTIMS должен быть не просто собранием программ и игр.
+As the project evolved, it became clear that NESTIMS should be more than just a collection of programs and games.
 
-Я хочу уделять больше внимания тому, какие задачи решают мои разработки, как они устроены и что можно улучшить. Поэтому следующим шагом стало упорядочивание существующего портфолио, документации и цифровых площадок бренда.
+I want to focus more on the problems my projects address, how they work, and how they can be improved. This made organizing the existing portfolio, documentation, and digital platforms associated with the brand the next logical step.
 
-При этом игры, учебные материалы и творческие эксперименты остаются частью проекта. Они помогают изучать технологии, пробовать новые идеи и сохранять историю развития.
+Games, educational materials, and creative experiments remain part of the project. They provide opportunities to explore technologies, test new ideas, and document the journey of development.
 
-## 7. Заключение
+## **7. Conclusion**
 
-NebulaStack начался с идеи цифровой монеты, но со временем превратился в проект, связанный с программированием и технологиями.
+NebulaStack began as the idea for a digital coin but gradually evolved into a project centered on programming and technology.
 
-Сегодня NESTIMS продолжает это развитие, объединяя мои программные проекты, эксперименты, исследования и творчество.
+Today, NESTIMS continues that journey by bringing together my software projects, experiments, research, and creative work.
 
-> **История NESTIMS продолжается.**
+> **The story of NESTIMS continues.**
