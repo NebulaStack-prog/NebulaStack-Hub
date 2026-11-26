@@ -4,14 +4,6 @@
 
 > **The central documentation repository of the NESTIMS ecosystem.**
 
-## 🧩 Ecosystem
-
-* 💻 NebulaStack-Infotech: [Details →](https://github.com/NebulaStack-prog/NebulaStack-Infotech)
-
-* 🎮 NebulaStack-Games: [Details →](https://github.com/NebulaStack-prog/NebulaStack-Games)
-
-* 🔬 NebulaStack-Explore: [Details →](https://github.com/NebulaStack-prog/NebulaStack-Explore)
-
 ## 🔗 About Founder (Me)
 
 * 🇷🇺 Russian version: [Details →](AboutMe_RU.md)
