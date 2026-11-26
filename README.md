@@ -4,6 +4,14 @@
 
 > **The central documentation repository of the NESTIMS ecosystem.**
 
+## 🧩 Ecosystem
+
+* 💻 NebulaStack-Infotech: [Details →](https://github.com/NebulaStack-prog/NebulaStack-Infotech)
+
+* 🎮 NebulaStack-Games: [Details →](https://github.com/NebulaStack-prog/NebulaStack-Games)
+
+* 🔬 NebulaStack-Explore: [Details →](https://github.com/NebulaStack-prog/NebulaStack-Explore)
+
 ## 🔗 About Founder (Me)
 
 * 🇷🇺 Russian version: [Details →](AboutMe_RU.md)
@@ -15,28 +23,6 @@
 * 🇷🇺 Russian version: [Details →](NS_Main_RU.md)
   
 * 🇺🇸 English version: [Details →](NS_Main_EN.md)
-
-## 🧩 Ecosystem
-
-* 💻 NebulaStack-Infotech: [Details →](https://github.com/NebulaStack-prog/NebulaStack-Infotech)
-
-
-* 🎮 NebulaStack-Games: [Details →](https://github.com/NebulaStack-prog/NebulaStack-Games)
-
-
-* 🧠 NebulaStack-Olymp: [Details →](https://github.com/NebulaStack-prog/NebulaStack-Olymp)
-
-
-* 🤖 NebulaStack-Robotech: [Details →](https://github.com/NebulaStack-prog/NebulaStack-Robotech)
-
-
-* 🧪 NebulaStack-Labs: [Details →](https://github.com/NebulaStack-prog/NebulaStack-Labs)
-
-
-* 🔬 NebulaStack-Explore: [Details →](https://github.com/NebulaStack-prog/NebulaStack-Explore)
-
-
-* 🎨 NebulaStack-Studio: [Details →](https://github.com/NebulaStack-prog/NebulaStack-Studio)
 
 ## 📜 Project History
 
